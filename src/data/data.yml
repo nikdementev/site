@@ -34,7 +34,7 @@ home:
         class: locomotive
 
       - name: DAOWallet B2C
-        url: https://b2c.daowallet.com
+        url: https://app.daowallet.com
         class: paratech
 
   - title: Follow
@@ -53,14 +53,12 @@ home:
         url: puffingcheeks@gmail.com
         class: email
 
-
 p404:
   - title: 404
     content:
       - name: Page Not Found
         url: https://dementev.tech
         class: minimal
-
 
 footer:
   - name: View on GitHub
