@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "nikdementev",
+    "version": "1.0.0",
+    "author": "Nik Demntev <puffingcheeks@gmail.com>",
+    "devDependencies": {
+        "@modularbp/gulp": "^1.0.5",
+        "@modularbp/gulp-build": "^1.1.0",
+        "@modularbp/gulp-error": "^1.0.3",
+        "@modularbp/gulp-hbs": "^1.0.6",
+        "@modularbp/gulp-js": "^1.0.8",
+        "@modularbp/gulp-less": "^1.0.0",
+        "@modularbp/gulp-notify": "^1.0.3",
+        "@modularbp/gulp-serve": "^1.0.5",
+        "@modularbp/gulp-svg": "^1.0.5",
+        "@modularbp/gulp-swig": "^1.0.0",
+        "@modularbp/gulp-watch": "^1.0.5",
+        "mbp": "^1.1.3"
+    }
+}

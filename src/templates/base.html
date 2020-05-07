@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="theme-color" content="#ffffff">
+
+        <title>{{ title }}</title>
+
+        <link rel="apple-touch-icon" href="images/favicon.ico">
+        <link rel="icon" href="images/favicon.ico">
+
+        <link rel="stylesheet" href="styles/main.css">
+
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400,700" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        {% block header %}
+            {% include "header.html" %}
+        {% endblock %}
+
+        {% block main %}{% endblock %}
+
+        {% block footer %}
+            {% include "footer.html" %}
+        {% endblock %}
+    </body>
+</html>
