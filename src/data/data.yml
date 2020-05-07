@@ -37,10 +37,6 @@ home:
         url: https://b2c.daowallet.com
         class: paratech
 
-      - name: SwapOnline
-        url: https://muraflex.com/en
-        class: muraflex
-
   - title: Follow
     content:
       - name: Twitter
