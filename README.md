@@ -2,7 +2,6 @@
 It's my website.
 
 ## The Stack
-- [modularBP](https://github.com/modularorg/modularbp)
 - [gulp](http://gulpjs.com/)
 - [Less](http://lesscss.org/)
 - [Swig](http://node-swig.github.io/swig-templates/)
