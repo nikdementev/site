@@ -10,6 +10,9 @@ home:
       - name: Testnet Exchange
         url: https://github.com/testnet-exchange
         class: modular
+      - name: Nuxt Web3 provider
+        url: https://github.com/tornadocash/provider
+        class: modular
       - name: Flight Wallet
         url: https://github.com/flightwallet
         class: modular
