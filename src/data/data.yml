@@ -25,6 +25,14 @@ home:
 
   - title: Work
     content:
+      - name: Multisender
+        url: https://multisender.app
+        class: paratech
+
+      - name: Tornado Cash
+        url: https://tornado.cash
+        class: locomotive
+
       - name: SwapOnline
         url: https://swaponline.io
         class: editorial
