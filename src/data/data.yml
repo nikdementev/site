@@ -28,13 +28,9 @@ home:
 
   - title: Work
     content:
-      - name: Multisender
-        url: https://multisender.app
+      - name: Peppersec
+        url: https://peppersec.com/
         class: paratech
-
-      - name: Tornado Cash
-        url: https://tornado.cash
-        class: locomotive
 
       - name: SwapOnline
         url: https://swaponline.io
